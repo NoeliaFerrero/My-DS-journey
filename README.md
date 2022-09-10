@@ -1,6 +1,8 @@
-# Sintaxis usada en ***Markdown***
+<p align="center">
+  <img src="https://github.com/NoeliaFerrero/NotaMental-IT/blob/main/puntos_steve_jobs_1.jpg">
+</p>
 
-![Image text](https://github.com/NoeliaFerrero/NotaMental-IT/blob/main/puntos_steve_jobs_1.jpg)
+# Sintaxis usada en ***Markdown***
 
 Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre la sintaxis usadas en un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad a un texto simple.
 
