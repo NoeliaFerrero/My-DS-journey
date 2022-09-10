@@ -1,6 +1,7 @@
 # Proyecto Soy Informática
 ***Documentemos la Ingeniería Informática***
-![texto]()
+![Image text](https://github.com/NoeliaFerrero/NotaMental-IT/blob/main/)
+![Image text]( https://github.com/NoeliaFerrero/Python-Intermedio-UTNFRC-SEU/blob/main/ejerc-integrador1.png)
 
 Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre distintas sintaxis usadas en IT.
 
