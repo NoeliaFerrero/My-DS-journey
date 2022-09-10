@@ -2,7 +2,7 @@
 
 ![Image text](https://github.com/NoeliaFerrero/NotaMental-IT/blob/main/puntos_steve_jobs_1.jpg)
 
-Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre la sintaxis usadas en Markdown, el cuál, es un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad al texto simple.
+Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre la sintaxis usadas en un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad a un texto simple.
 
 ## Tabla de contenido
 - [Objetivos](#objetivos).
@@ -27,11 +27,11 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
 ### Objetivos
 
 - A largo plazo cualquiera pueda aprender de la Ingeniería Informática por medio de este repositorio.
-- A medio plazo, tener información de calidad y minimalista para poder retroalimentar o recordar partes de código, definiciones y demás sobre la Ingeniería Informática.
+- A medio plazo, tener información de calidad para poder retroalimentar o recordar partes de código, definiciones y demás sobre la Ingeniería Informática.
 
 ### ¿Cómo funciona?
 
-En el repositorio, las distintas áreas, campos o lenguajes de programación que se aprende en la Ingeniería Informática estan creados por carpetas, ejemplo: Java, C++, HTML, DISCRETAS, etc... Cada carpeta contiene un archivo `README.md` y una carpeta llamada `Images`. En el archivo `README.md` se documentará todo lo que más se pueda acerca de dicha categoría y en la carpeta `Images` se guardará las imágenes que se insertarán en el archivo `README` para explicar algo gráficamente.
+En el repositorio, se irán creando carpetas, por las distintas áreas, campos o lenguajes de programación, ejemplo: Java, HTML, etc... Cada carpeta contiene un archivo `README.md` y una carpeta llamada `Images`. En el archivo `README.md` se documentará todo lo que más se pueda acerca de dicha categoría y en la carpeta `Images` se guardará las imágenes que se insertarán en el archivo `README` para explicar algo gráficamente.
 
 El archivo `README.md` tiene la siguiente arquitectura de la información que deberás de tener en cuenta a la hora de colaborar ya sea mejorandolo, corrigiendo o creando uno nuevo para otra categoría aún no publicada:
 
