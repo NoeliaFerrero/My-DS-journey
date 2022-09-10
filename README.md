@@ -1,7 +1,8 @@
-# Proyecto Soy Informático
+# Proyecto Soy Informática
 ***Documentemos la Ingeniería Informática***
+![texto]()
 
-Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre distintas áreas de la Ingeniería Informática.
+Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre distintas sintaxis usadas en IT.
 
 ## Tabla de contenido
 - [Objetivos](#objetivos).
