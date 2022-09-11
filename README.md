@@ -33,10 +33,9 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
 
 ### ¿Cómo funciona?
 
-En el repositorio, se irán creando carpetas, por las distintas áreas, campos o lenguajes de programación, ejemplo: Java, HTML, etc... Cada carpeta contiene un archivo `README.md` y una carpeta llamada `Images`. En el archivo `README.md` se documentará todo lo que más se pueda acerca de dicha categoría y en la carpeta `Images` se guardará las imágenes que se insertarán en el archivo `README` para explicar algo gráficamente.
+En el repositorio, se irán creando carpetas, por las distintas áreas, campos o temas de interes, ejemplo: Java, HTML, etc... Cada carpeta contiene un archivo `README.md` y una carpeta llamada `Images`. En el archivo `README.md` se documentará todo lo que más se pueda acerca de dicha categoría y en la carpeta `Images` se guardará las imágenes que se insertarán en el archivo `README` para explicar algo gráficamente.
 
 El archivo `README.md` tiene la siguiente arquitectura de la información que deberás de tener en cuenta a la hora de colaborar ya sea mejorandolo, corrigiendo o creando uno nuevo para otra categoría aún no publicada:
-
 
 - Una introducción sobre la definición de la categoría, ejemplo: Java es un lenguaje de programación, etc...
 
@@ -63,8 +62,6 @@ Utiliza las opciones de GitHub como **Pull Request** o un **Fork** para colabora
 **Fork**: Hace un clon de este repositorio en tu cuenta de GitHub. En el podrás hacer modificaciones o simplemente para tener una copia (con opción de clonarlo a tu PC también). De esa forma garantizas la información para tu uso personal.
 
 **Pull Request**: Envía la sugerencias de cambio para este repositorio, los cuales hicistes en tu clon. Si son aceptadas por el master, se fucionan los cambios y el repositorio del proyecto queda actualizado.
-
-Adicionalmente, se esta creando un sitio web, por ahora con el único objetivo de dar a conocer lo que estamos haciendo aquí a Universidades, foros, etc... El enlace es: [wwww.soyinformatico.org](http://www.soyinformatico.org)
 
 ### Tips de sintaxis para dar formato a los README
 
@@ -177,22 +174,21 @@ https://guides.github.com/features/mastering-markdown/
 Garantizamos tener la información de nuestro conocimiento accesible todo el tiempo, con el objetivo de recordar partes de datos claves que necesitemos en futuros proyectos o simplemente retroalimentarnos de manera colectiva gracias a la facilidad de poder contribuir entre varias personas con el proyecto.
 
 
-| Type     | Emoji                 | code                    |
-|:---------|:----------------------|:------------------------|
-| feat     | :sparkles:            | `:sparkles:`            |
-| fix      | :bug:                 | `:bug:`                 |
-| docs     | :books:               | `:books:`               |
-| style    | :gem:                 | `:gem:`                 |
-| refactor | :hammer:              | `:hammer:`              |
-| perf     | :rocket:              | `:rocket:`              |
-| test     | :rotating_light:      | `:rotating_light:`      |
-| build    | :package:             | `:package:`             |
-| ci       | :construction_worker: | `:construction_worker:` |
-| chore    | :wrench:              | `:wrench:`              |
-| commit   | :tada:                | `:tada:`                |
+| Type 			    | Emoji                 | code                    |
+|:--------------------------|:----------------------|:------------------------|
+| feat     		    | :sparkles:            | `:sparkles:`            |
+| fix      		    | :bug:                 | `:bug:`                 |
+| docs     		    | :books:               | `:books:`               |
+| style    		    | :gem:                 | `:gem:`                 |
+| refactor 		    | :hammer:              | `:hammer:`              |
+| perf     		    | :rocket:              | `:rocket:`              |
+| test     		    | :rotating_light:      | `:rotating_light:`      |
+| build     		    | :package:             | `:package:`             |
+| ci       		    | :construction_worker: | `:construction_worker:` |
+| chore    		    | :wrench:              | `:wrench:`              |
+| commit   		    | :tada:                | `:tada:`                |
+| Version tag  		    | :bookmark:            | `:bookmark:`            |
 
-
-Version tag			🔖 `:bookmark:`
 
 New feature			✨ `:sparkles:`
 
