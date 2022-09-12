@@ -4,7 +4,7 @@
 
 # Sintaxis usada en ***Markdown***
 
-Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre la sintaxis usadas en un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad a un texto simple.
+Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre la sintaxis usada en un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad a un texto simple.
 
 ## Tabla de contenido
 - [Objetivos](#objetivos).
