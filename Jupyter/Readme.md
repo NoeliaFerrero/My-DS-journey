@@ -48,5 +48,7 @@ Si se quieren hacer los cambios de tema dentro del notebook, se escribe en una l
 2. jupyter contrib nbextension install 
 Pueden correrlo primero 1 y luego 2 o juntos con el símbolo && como se muestra en el video
 
+pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
+
 https://www.youtube.com/watch?v=JTpZPJRW-GI
 
