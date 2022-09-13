@@ -11,3 +11,9 @@ Es una herramienta gratuita muy útil para profesores y estudiantes que permite 
 
 Es una poderosísima herramienta online que nos sirve para hacer preguntas, encuestas y juegos. La página permite lanzar diferentes formatos de participación para los alumnos. Lo cual permitirá que jueguen e interactúen con la herramienta y a la vez aprenderán viendo y haciendo
 
+
+
+**Padlet** (https://es.padlet.com/)
+
+Padlet es una plataforma digital que permite crear pizarras y murales colaborativos, ofreciendo la posibilidad de construir espacios donde se pueden presentar recursos multimedia, ya sea videos, audio, fotos o documentos. Estos recursos se agregan como notas adhesivas, como si fuesen “post-its”.
+
