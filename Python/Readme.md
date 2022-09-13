@@ -65,5 +65,5 @@ Los errores nunca deben pasar en silencio: en general, cuando un error ocurre, d
 
 Hay 20 principios en el Zen de Python, solo 19 líneas de texto. El numero 20 es un asunto de opinión, pero nuestra interpretación es que la línea en blanco significa "Utilice espacios en blanco".
 
-Creo que para futuros proyectos podemos tomar algunas de estas recomendaciones de Tim Peterson.
+🔄 Creo que para futuros proyectos podemos tomar algunas de estas recomendaciones de Tim Peterson.
 
