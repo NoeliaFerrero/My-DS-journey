@@ -4,7 +4,7 @@
 
 # ***My DS Journey***
 
-Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre **Mi viaje en DS**. 
+Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre **Mi viaje en Data Science**. 
 
 Comenzamos aprendiendo un poco sobre la sintaxis usada en **markdown**, un lenguaje de marcado sencillo, que sirve para agregar formato, vínculos e imágenes con facilidad a un texto simple.
 
