@@ -17,10 +17,9 @@ Sitios para poder practicar SQL de una forma divertida y muy clara. Y como dice 
 ✅ DataLemur, sitio para practicar preguntas que suelen hacer en entevistas de trabajo. 
 
 
-👀 Esta es una página muy buena para practicar sin instalar nada! 
+👀 Esta es una página muy buena para practicar SQL sin instalar nada! 
 
-<p align="center">
-  <img src="https://github.com/NoeliaFerrero/My-DS-journey/blob/main/puntos_steve_jobs_1.jpg" alt="Prueba" width="450" height="450">
-</p>
- 
+![stratascratch](https://raw.githubusercontent.com/NoeliaFerrero/My-DS-journey/master/SQL/stratascratch.png)
+
+
 https://www.stratascratch.com/
