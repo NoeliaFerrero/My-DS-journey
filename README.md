@@ -28,14 +28,14 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
 
 ### Objetivos
 
-- A largo plazo cualquiera pueda aprender de la Ingeniería Informática por medio de este repositorio.
-- A medio plazo, tener información de calidad para poder retroalimentar o recordar partes de código, definiciones y demás sobre la Ingeniería Informática.
+- A largo plazo, que cualquiera pueda aprender de el armado y mantem de repositorios, archivos readme, markdown, etc.
+- A medio plazo, tener información de calidad para poder retroalimentar o recordar partes de código, definiciones y demás sobre IT.
 
 ### ¿Cómo funciona?
 
 En el repositorio, se irán creando carpetas, por las distintas áreas, campos o temas de interes, ejemplo: Java, HTML, etc... Cada carpeta contiene un archivo `README.md` y una carpeta llamada `Images`. En el archivo `README.md` se documentará todo lo que más se pueda acerca de dicha categoría y en la carpeta `Images` se guardará las imágenes que se insertarán en el archivo `README` para explicar algo gráficamente.
 
-El archivo `README.md` tiene la siguiente arquitectura de la información que deberás de tener en cuenta a la hora de colaborar ya sea mejorandolo, corrigiendo o creando uno nuevo para otra categoría aún no publicada:
+El archivo `README.md` tiene la siguiente arquitectura de la información, la cual se deberá tener en cuenta a la hora de colaborar ya sea mejorandolo, corrigiendo o creando uno nuevo para otra categoría aún no publicada:
 
 - Una introducción sobre la definición de la categoría, ejemplo: Java es un lenguaje de programación, etc...
 
