@@ -4,7 +4,7 @@
 
 ⏰Utiliza todas las herramientas disponibles para estudiar: libros, páginas de Internet, apps de celular, videos de YouTube (algunos conceptos necesitan ser vistos desde varios puntos de vista)
 
-🆘Una cosa que aprendí es: "La regla de los 20 minutos", antes de preguntar, usa 20 minutos para tratar de encontrar la respuesta por vos mismo. Me sirvió mucho para crecer en esto, una parte muy importante es la autoformación y es una valorada habilidad laboral.
+🆘Una cosa que aprendí es: "La regla de los 20 minutos", antes de preguntar, usa 20 minutos para tratar de encontrar la respuesta por vos mismo. Me sirvió mucho para crecer en esto, una parte muy importante es la autoformación y es habilidad laboral muy valorada.
 
 ⚖️Lee siempre el error que te sale, así vas a encontrar la pista en donde esta el problema, podes copiarlo y buscarlo en Google ( páginas como StackOverFlow tienen muchísimas respuestas a otras personas que ya tuvieron los mismos problemas)
 
