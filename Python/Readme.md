@@ -32,9 +32,7 @@ The Zen of Python, by Tim Peters
 19. Namespaces are one honking great idea -- let's do more of those!
 20. 
 
-El resultado es el Zen de Python escrito por Tim Peters.
-
-Ahora rápidamente lo traduciré con Google Traductor.
+:eyes: Ahora rápidamente lo traduciré con Google Traductor.
 
 El Zen de Python, por Tim Peters
 
