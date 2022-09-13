@@ -10,3 +10,4 @@ Así que lo que podemos aprender de este macho alfa es que " ser un líder no es
 <p align="center">
   <img src="https://github.com/NoeliaFerrero/My-DS-journey/Autoliderazgo/blob/main/manada_lobos.jpg" alt="Prueba" width="450" height="450">
 </p>
+Autoliderazgo/manada_lobos.jpg
