@@ -16,8 +16,5 @@ Es una poderosísima herramienta online que nos sirve para hacer preguntas, encu
 
 Padlet es una plataforma digital que permite crear pizarras y murales colaborativos, ofreciendo la posibilidad de construir espacios donde se pueden presentar recursos multimedia, ya sea videos, audio, fotos o documentos. Estos recursos se agregan como notas adhesivas, como si fuesen “post-its”.
 
-![meme](https://raw.githubusercontent.com/NoeliaFerrero/My-DS-journey/master/Recursos para Juegos/image.png)
+![meme](https://raw.githubusercontent.com/NoeliaFerrero/My-DS-journey/master/image.png)
 
-<p align="center">
-  <img src="https://github.com/NoeliaFerrero/My-DS-journey/Recursos para Juegos/image.png" alt="Prueba" width="450" height="450">
-</p>
