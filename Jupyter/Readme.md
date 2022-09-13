@@ -29,26 +29,27 @@ Las extensiones incluyen lo siguiente:
 
 - Cambiar de tema: C:\Users\Administrador>pip install jupyterthemes
 
-Para ver los temas disponibles, tipear en la línea de comando: C:\Users\Administrador>jt –l
+Para ver los temas disponibles, tipear en la línea de comando: `C:\Users\Administrador>jt –l`
 
 Una vez que se escoge el tema, tipear en la línea de comando:  
 
-C:\Users\Administrador>jt –t onedork –T –N
+`C:\Users\Administrador>jt –t onedork –T –N`
 
 Luego enter y refrescamos el notebook para aplicar los cambios
 
 Si se quieren hacer los cambios de tema dentro del notebook, se escribe en una línea de código:
 
-!jt –l y luego !jt –t (nombre del tema) –T –N -kl
+`!jt –l` y luego `!jt –t (nombre del tema) –T –N -kl`
 
 
 💻 Código para instalar Jupyter Notebooks: 
 
-1. pip install jupyter_contrib_nbextensions 
-2. jupyter contrib nbextension install 
+1. `pip install jupyter_contrib_nbextensions` 
+2. `jupyter contrib nbextension install` 
+
 Pueden correrlo primero 1 y luego 2 o juntos con el símbolo && como se muestra en el video
 
-pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
+`pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install`
 
 https://www.youtube.com/watch?v=JTpZPJRW-GI
 
