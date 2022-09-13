@@ -1,4 +1,4 @@
-## Sitios para creacion de DER, Diagramas de Flujo, roatmap, etc
+## Sitios para creacion de DER, Diagramas de Flujo, Roatmap, etc
 --------
 
 **WHIMSICAL**
