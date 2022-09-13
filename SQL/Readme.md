@@ -17,7 +17,7 @@ Sitios para poder practicar SQL de una forma divertida y muy clara. Y como dice 
 ✅ DataLemur, sitio para practicar preguntas que suelen hacer en entevistas de trabajo. 
 
 
-Esta es tu página 👀. 
+Esta es una página 👀 muy buena para practicar! 
 
 
  
