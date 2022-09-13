@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/NotaMental-IT/blob/main/puntos_steve_jobs_1.jpg" alt="Prueba" width="450" height="450">
+  <img src="https://github.com/NoeliaFerrero/My-DS-journey/blob/main/puntos_steve_jobs_1.jpg" alt="Prueba" width="450" height="450">
 </p>
 
 # ***My DS Journey***
