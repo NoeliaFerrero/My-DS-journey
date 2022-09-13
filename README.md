@@ -2,9 +2,11 @@
   <img src="https://github.com/NoeliaFerrero/NotaMental-IT/blob/main/puntos_steve_jobs_1.jpg" alt="Prueba" width="450" height="450">
 </p>
 
-# Sintaxis usada en ***Markdown***
+# ***My DS Journey***
 
-Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre la sintaxis usada en un lenguaje de marcado sencillo que sirve para agregar formato, vínculos e imágenes con facilidad a un texto simple.
+Un repositorio que pretende ser la guía para recordar, aprender o retroalimentar información sobre **Mi viaje en DS**. 
+
+Comenzamos aprendiendo un poco sobre la sintaxis usada en **markdown**, un lenguaje de marcado sencillo, que sirve para agregar formato, vínculos e imágenes con facilidad a un texto simple.
 
 ## Tabla de contenido
 - [Objetivos](#objetivos).
@@ -33,7 +35,7 @@ Un repositorio que pretende ser la guía para recordar, aprender o retroalimenta
 
 ### ¿Cómo funciona?
 
-En el repositorio, se irán creando carpetas, por las distintas áreas, campos o temas de interes, ejemplo: Java, HTML, etc... Cada carpeta contiene un archivo `README.md` y una carpeta llamada `Images`. En el archivo `README.md` se documentará todo lo que más se pueda acerca de dicha categoría y en la carpeta `Images` se guardará las imágenes que se insertarán en el archivo `README` para explicar algo gráficamente.
+En el repositorio, se irán creando carpetas, por las distintas áreas, campos o temas de interes, ejemplo: Jupyter, HTML, etc... Cada carpeta contiene un archivo `README.md` y una carpeta llamada `Images`. En el archivo `README.md` se documentará todo lo que más se pueda acerca de dicha categoría y en la carpeta `Images` se guardará las imágenes que se insertarán en el archivo `README` para explicar algo gráficamente.
 
 El archivo `README.md` tiene la siguiente arquitectura de la información, la cual se deberá tener en cuenta a la hora de colaborar ya sea mejorandolo, corrigiendo o creando uno nuevo para otra categoría aún no publicada:
 
