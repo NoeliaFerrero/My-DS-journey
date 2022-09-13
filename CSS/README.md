@@ -57,7 +57,7 @@ scroll: Muestra un scroll en la capa así el contenido no sea mayor al tamaño d
 
 **Gráficamente se vería así**:
 
-![valores overflow](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/CSS/Images/overflow-values.jpg)
+![valores overflow](https://raw.githubusercontent.com/NoeliaFerrero/My-DS-journey/master/CSS/Images/overflow-values.jpg)
 
 ## Propiedad border radius
 
@@ -107,12 +107,12 @@ Los valores 0.5 y 3em del ejemplo 2, aproxima el grado de redondeo al eje x de l
 
 `border-top-left-radius: 10em;` produce lo siguiente:
 
-![ejemplo border radius](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/CSS/Images/border-radius-one-values.jpg)
+![ejemplo border radius](https://raw.githubusercontent.com/NoeliaFerrero/My-DS-journey/master/CSS/Images/border-radius-one-values.jpg)
 
 Ahora con dos valores:
 
 `border-top-left-radius: 10em 5em;` produce lo siguiente:
 
-![Ejemplo de border radius con dos valores](https://raw.githubusercontent.com/victorhtorres/SoyInformatico/master/CSS/Images/border-radius-two-values.jpg)
+![Ejemplo de border radius con dos valores](https://raw.githubusercontent.com/NoeliaFerrero/My-DS-journey/master/CSS/Images/border-radius-two-values.jpg)
 
 
