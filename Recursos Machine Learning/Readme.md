@@ -1,4 +1,4 @@
-### Si estamos iniciando en este mundo, acá van algunas recomendaciones:    
+### Acá van algunas recomendaciones, si estan iniciando en este mundo, ó para leer de vez en cuando...    
 
 🏴 Toma la iniciativa, arma un grupo de estudio, publica contenido en LI, etc, la comunidad es MUY IMPORTANTE y se aprende mucho mejor en grupo.
 
