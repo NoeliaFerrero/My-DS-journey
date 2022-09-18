@@ -23,3 +23,8 @@ Sitios para poder practicar SQL de una forma divertida y muy clara. Y como dice 
 
 
 https://www.stratascratch.com/
+
+
+:bomb: Y ESTA PAGINA ESTA ESPECTACULAR PARA VER Pandas & SQL !!!
+
+https://datascientyst.com/
