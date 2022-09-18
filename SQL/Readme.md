@@ -27,6 +27,6 @@ https://www.stratascratch.com/
 
 :bomb: Y ESTA PAGINA ESTA ESPECTACULAR PARA VER Pandas & SQL !!!
 
-![stratascratch](https://raw.githubusercontent.com/NoeliaFerrero/My-DS-journey/master/SQL/Pandas vs SQL.jpg)
+![stratascratch](https://raw.githubusercontent.com/NoeliaFerrero/My-DS-journey/master/SQL/Pandas-vs-SQL.jpg)
 
 https://datascientyst.com/
