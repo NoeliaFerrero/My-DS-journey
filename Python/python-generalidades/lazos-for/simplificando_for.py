@@ -74,7 +74,3 @@ lista
 x = [-2, -4, 1, 8, -12, 3, -10, 15, 20, 5]
 lista = [i if i < 0 else i * -1 for i in x]
 lista
-#%%[markdown]
-# # Un poco de spam...
-# ## NO OLVIDES SUSCRIBIRTE Y COMPARTIR EL VIDEO
-# ### GRACIAS
