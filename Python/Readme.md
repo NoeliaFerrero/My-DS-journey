@@ -3,7 +3,7 @@
 
 Escribir programas que en verdad hagan lo que deben hacer es solo una parte de ser un buen programador de Python. También es importante escribir un código limpio que sea fácil de entender, incluso semanas después de que haya sido escrito
 
-Una manera de hacerlo es siguiendo el Zen de Python, una serie de principios algo burlones que sirven como una guía para la programación de la manera pitónica. 
+Una manera de hacerlo es siguiendo el Zen de Python, una serie de principios algo burlones que sirven como una guía para la programación de la manera pythonica. 
 
 Podemos utilizar import this para obtener como resultado lo siguiente:
 
