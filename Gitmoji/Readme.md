@@ -96,5 +96,7 @@ Accessibility			♿ `:wheelchair:`
 
 Move/rename repository		🚚 `:truck:`
 
+:clock: 
+
 Other	Be creative
 
