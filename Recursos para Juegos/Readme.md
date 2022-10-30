@@ -16,5 +16,9 @@ Es una poderosísima herramienta online que nos sirve para hacer preguntas, encu
 
 Padlet es una plataforma digital que permite crear pizarras y murales colaborativos, ofreciendo la posibilidad de construir espacios donde se pueden presentar recursos multimedia, ya sea videos, audio, fotos o documentos. Estos recursos se agregan como notas adhesivas, como si fuesen “post-its”.
 
+**Encuestas** (https://www.survio.com/)
+
+Software para la creación de encuestas online de satisfacción del cliente, investigación de mercados, estudios de opinión, etc.
+
 ![meme](https://raw.githubusercontent.com/NoeliaFerrero/My-DS-journey/master/image.png)
 
