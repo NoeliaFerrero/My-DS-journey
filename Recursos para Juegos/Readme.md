@@ -1,4 +1,4 @@
-## Recursos para crear juegos
+## Recursos para crear juegos y Encuestas
 --------
 
 
