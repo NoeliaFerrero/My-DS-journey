@@ -51,7 +51,7 @@ El Zen de Python, por Tim Peters
 13. Debería haber una, y preferiblemente solo una, forma obvia de hacerlo.
 14. Aunque de esa manera puede no ser obvio al principio a menos que seas holandés.
 15. Ahora es mejor que nunca.
-16. Aunque nunca suele ser mejor que * correcto * ahora.
+16. Aunque nunca suele ser mejor que ahora.
 17. Si la implementación es difícil de explicar, es una mala idea.
 18. Si la implementación es fácil de explicar, puede ser una buena idea.
 19. Los espacios de nombres son una gran idea: ¡hagamos más de eso!
