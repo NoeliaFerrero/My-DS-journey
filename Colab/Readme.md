@@ -6,4 +6,4 @@ Insertar imágenes
 
 ¿Como testear mi codigo de ML? PyTest does not check your data. It checks your code/ program.
 
-[Pytest]([url completa](https://towardsdatascience.com/pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8))
+[Pytest](https://towardsdatascience.com/pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8)
