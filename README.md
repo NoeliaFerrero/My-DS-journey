@@ -9,23 +9,23 @@ Un mundo tan atrapante, requiere que pienses diferente! Este, es un repositorio 
 Comenzamos aprendiendo un poco sobre la sintaxis usada en **markdown**, un lenguaje de marcado sencillo, que sirve para agregar formato, vínculos e imágenes con facilidad a un texto simple.
 
 ## Tabla de contenido
-- [Objetivos](#objetivos).
-- [¿Cómo funciona?](#como-funciona).
-- [Contribuir](#contribuir).
-- [Tips de sintaxis para dar formato a los README](#tips-de-sintaxis-para-dar-formato-a-los-readme).
-  - [Insertar HN](#insertar-hn).
-  - [Cursivas](#cursivas).
-  - [Negrilla](#negrilla).
-  - [Viñetas para tablas de contenido](#vi%C3%B1etas).
-  - [insertar imágenes](#insertar-im%C3%A1genes).
-  - [Insertar enlaces](#insertar-enlaces).
-  - [Hacer anclaje](#hacer-anclaje).
-  - [Insertar una línea de código](#insertar-una-l%C3%ADnea-de-c%C3%B3digo).
-  - [Insertar un bloque de código](#insertar-un-bloque-de-c%C3%B3digo).
-  - [Resaltar el código](#resaltar-el-c%C3%B3digo).
-  - [Insertar tablas](#insertar-tablas).
-  - [Referencias externas sobre markdown](#referencias-externas-sobre-markdown).
-- [FAQs](#faqs).
+- [Objetivos](#objetivos)
+- [¿Cómo funciona?](#como-funciona)
+- [Contribuir](#contribuir)
+- [Tips de sintaxis para dar formato a los README](#tips-de-sintaxis-para-dar-formato-a-los-readme)
+  - [Insertar HN](#insertar-hn)
+  - [Cursivas](#cursivas)
+  - [Negrilla](#negrilla)
+  - [Viñetas para tablas de contenido](#vi%C3%B1etas)
+  - [insertar imágenes](#insertar-im%C3%A1genes)
+  - [Insertar enlaces](#insertar-enlaces)
+  - [Hacer anclaje](#hacer-anclaje)
+  - [Insertar una línea de código](#insertar-una-l%C3%ADnea-de-c%C3%B3digo)
+  - [Insertar un bloque de código](#insertar-un-bloque-de-c%C3%B3digo)
+  - [Resaltar el código](#resaltar-el-c%C3%B3digo)
+  - [Insertar tablas](#insertar-tablas)
+  - [Referencias externas sobre markdown](#referencias-externas-sobre-markdown)
+- [FAQs](#faqs)
   - [¿Por qué debería documentar todo lo que aprendo?](#porque-deber%C3%ADa-documentar-todo-lo-que-aprendo)
 
 ### Objetivos
