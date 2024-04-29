@@ -40,16 +40,16 @@ El Zen de Python, por Tim Peters
 2. Explícito es mejor que implícito.
 3. Simple es mejor que complejo.
 4. Complejo es mejor que complicado.
-5. Flat es mejor que anidado.
-6. Sparse es mejor que denso.
+5. Plano es mejor que anidado.
+6. Escaso es mejor que denso.
 7. La legibilidad cuenta
 8. Los casos especiales no son lo suficientemente especiales como para romper las reglas.
 9. Aunque la practicidad supera a la pureza.
 10. Los errores nunca deberían pasar silenciosamente.
-11. A menos que esté explícitamente silenciado.
-12. En vista de la ambigüedad, rechace la tentación de adivinar.
-13. Debería haber una, y preferiblemente solo una, forma obvia de hacerlo.
-14. Aunque de esa manera puede no ser obvio al principio a menos que seas holandés.
+11. A menos que sean silenciados explícitamente.
+12. Ante la ambigüedad, rechace la tentación de adivinar.
+13. Debería haber una, y preferiblemente solo una, manera obvia de hacerlo.
+14. Aunque esa manera puede no ser obvio al principio, a menos que seas holandés.
 15. Ahora es mejor que nunca.
 16. Aunque nunca suele ser mejor que ahora.
 17. Si la implementación es difícil de explicar, es una mala idea.
